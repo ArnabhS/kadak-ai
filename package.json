@@ -12,6 +12,8 @@
     "@civic/auth": "^0.7.1",
     "@civic/auth-web3": "^0.5.16",
     "@google/generative-ai": "^0.24.1",
+    "ethers": "^6.14.4",
+    "hardhat": "^2.24.3",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
